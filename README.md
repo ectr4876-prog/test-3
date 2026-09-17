@@ -1,4 +1,4 @@
-# README.md 파일 만드릭
+# README.md 파일 만들기
 
 ## akxmekdns aksemflr
 
